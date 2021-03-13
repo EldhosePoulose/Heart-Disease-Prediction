@@ -46,8 +46,8 @@ Database: # of instances:
 
 missing values represented with value -9.0
 Class Distribution:
-        Database:      0   1   2   3   4 Total
-          Cleveland: 164  55  36  35  13   303
-          Hungarian: 188  37  26  28  15   294
-        Switzerland:   8  48  32  30   5   123
-      Long Beach VA:  51  56  41  42  10   200
+        Database:   |   0 | 1 | 2 | 3 | 4 | Total
+          Cleveland: | 164 | 55 | 36 | 35 | 13 |  303
+          Hungarian: | 188 | 37 | 26 | 28 | 15  | 294
+        Switzerland: |  8 | 48 | 32 | 30  | 5  | 123
+      Long Beach VA: | 51 | 56 | 41 | 42 | 10 | 200
