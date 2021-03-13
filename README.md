@@ -17,16 +17,14 @@ that any publications resulting from the use of the data include the names of th
 
 The goal is to predict presence of heart disease in the patient, where the presence as 4 and no presence as 0.
 
-#Number of Instances: 
-
+# Number of Instances: 
 Database: # of instances:
+1. Cleveland: 303
+2. Hungarian: 294
+3. Switzerland: 123
+4. Long Beach VA: 200
 
--- Cleveland: 303
--- Hungarian: 294
--- Switzerland: 123
--- Long Beach VA: 200
-
-#Attribute Information:  
+# Attribute Information:  
       -- Only 14 used
       -- 1. #3  (age)       
       -- 2. #4  (sex)       
