@@ -18,7 +18,9 @@ that any publications resulting from the use of the data include the names of th
 The goal is to predict presence of heart disease in the patient, where the presence as 4 and no presence as 0.
 
 #Number of Instances: 
+
 Database: # of instances:
+
 -- Cleveland: 303
 -- Hungarian: 294
 -- Switzerland: 123
