@@ -46,6 +46,7 @@ Database: # of instances:
 
 missing values represented with value -9.0
 Class Distribution:
+
         Database:   |  0  | 1  | 2  | 3  | 4  | Total |
         ------------|-----|----|----|----|----|-------|
          Cleveland: | 164 | 55 | 36 | 35 | 13 | 303   |
