@@ -10,10 +10,10 @@ The data source:
 Each dataset has the same instance format with 14 attributes (original 76 attributes, here we use the processed version)
 The authors of the databases have requested:
 that any publications resulting from the use of the data include the names of the principal investigator responsible for the data collection at each institution.  They would be:
-    * Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-    * University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-    * University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-    * V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+    - Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+    - University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+    - University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+    - V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
 
 The goal is to predict presence of heart disease in the patient, where the presence as 4 and no presence as 0.
 
