@@ -41,7 +41,7 @@ Long Beach VA  |     200        |
   11. #41 slope: the slope of the peak exercise ST segment (1= upsloping; 2= flat; 3= downsloping)     
   12. #44 ca: number of major vessels (0-3) colored by flourosopy       
   13. #51 thal: 3= normal; 6= fixed defect; 7= reversable defect      
-  14. #58 num: diagnosis of heart disease (angiographic disease status, 0= <50% diameter narrowing; 1= >50% diameter narrowing)(the predicted attribute)
+  14. #58 target: diagnosis of heart disease (angiographic disease status, 0= <50% diameter narrowing; 1= >50% diameter narrowing)(the predicted attribute)
 
 
 # Overview
