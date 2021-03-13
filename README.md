@@ -2,9 +2,9 @@
 This repository contains the data analysis of 4 databases concerning heart disease diagnosis.
 
 The data source:
-     1. Cleveland Clinic Foundation (processed.cleveland.data)
-     2. Hungarian Institute of Cardiology, Budapest (processed.hungarian.data)
-     3. V.A. Medical Center, Long Beach, CA (processed.va.data)
+     1. Cleveland Clinic Foundation (processed.cleveland.data) \\
+     2. Hungarian Institute of Cardiology, Budapest (processed.hungarian.data) \\
+     3. V.A. Medical Center, Long Beach, CA (processed.va.data) \\
      4. University Hospital, Zurich, Switzerland (processed.switzerland.data)
 
 Each dataset has the same instance format with 14 attributes (original 76 attributes, here we use the processed version)
