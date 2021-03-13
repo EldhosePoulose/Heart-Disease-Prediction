@@ -46,7 +46,7 @@ Long Beach VA  |     200        |
 
 # Overview
 
-* missing values represented with value -9.0
+* missing values represented with value NA
 * Class Distribution
 
      Database         |  0  | 1  | 2  | 3  | 4  | Total |
