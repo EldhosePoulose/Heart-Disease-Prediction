@@ -19,14 +19,12 @@ The goal is to predict presence of heart disease in the patient, where the prese
 
 #Number of Instances: 
 Database: # of instances:
-
 -- Cleveland: 303
 -- Hungarian: 294
 -- Switzerland: 123
 -- Long Beach VA: 200
 
-#Attribute Information:
-      
+#Attribute Information:  
       -- Only 14 used
       -- 1. #3  (age)       
       -- 2. #4  (sex)       
